@@ -16,7 +16,7 @@ import java.util.TimeZone;
 public class Main {
 
 	public static void main(String[] args) throws ParseException, IOException {
-		File outputFile=new File("C:\\Users\\pc\\eclipse-workspace\\ged-export\\boby.json");
+		File outputFile=new File("C:\\Users\\pc\\eclipse-workspace\\ged-export\\boby.csv");
 		List<String> documents =new ArrayList<String>();
 		documents.add("doc1");
 		documents.add("doc2");
